@@ -2,6 +2,7 @@
 - 👀 I’m interested in learning programming languages like Python, C, Java and acquiring DS specific skillset:) 
 - 🌱 I’m currently learning print("Basic Python!")
 - 😄 Pronouns: She/Her
+- I'm an enthusiastic learner, passionate for my work and a good communicator:))
 - ⚡ Fun fact: I love data analytics and architecture!!!
 
 <!---
