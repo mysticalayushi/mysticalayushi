@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mysticalayushi
 - 👀 I’m interested in learning programming languages like Python, C, Java and acquiring DS specific skillset:) 
 - 🌱 I’m currently learning print("Basic Python!")
-- 😄 Pronouns:She/Her
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love data analytics and architecture!!!
 
 <!---
