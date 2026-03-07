@@ -6,8 +6,7 @@
 <i>"In a world overflowing with information, I seek the stories hidden within data."</i>
 </p>
 
-<p align="center">
-    
+<p align="center">    
 ══════════════ ✦ 📜 ✦ ══════════════
 </p>
 
