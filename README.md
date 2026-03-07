@@ -1,9 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/mysticalayushi/mysticalayushi/main/parchment.png" width="750"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Garamond&size=32&duration=4000&pause=1000&color=5C4326&center=true&vCenter=true&width=720&lines=Welcome+to+my+Digital+Library;Where+Data+Becomes+Stories;Exploring+Patterns+Hidden+in+Numbers;Turning+Data+into+Insight+and+Insight+into+Knowledge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Garamond&size=34&duration=4000&pause=1000&color=5C4326&center=true&vCenter=true&width=900&height=200&background=F5E6C8&lines=Welcome+to+my+Digital+Library;Where+Data+Becomes+Stories;Exploring+Patterns+Hidden+in+Numbers;Turning+Data+into+Insight+and+Insight+into+Knowledge"/>
 </p>
 
 <p align="center">
