@@ -50,14 +50,18 @@ class DataScholar:
 🪶 My goal is to transform **raw data → insight → knowledge → impact.**
 
 ---
-
 # 📚 Library of Technical Knowledge
+<p align="center">
+━━━━━━━━━━━━━━ 📚 ━━━━━━━━━━━━━━
+</p>
 
 ## 🧠 Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql"/>
+<img src="https://skillicons.dev/icons?i=python" width="40"/> Python  
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/> SQL  
+<img src="https://skillicons.dev/icons?i=r" width="40"/> R  
 
 </p>
 
@@ -67,10 +71,11 @@ class DataScholar:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> Pandas  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> NumPy  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> Scikit-Learn  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/> Matplotlib  
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/> Seaborn  
 
 </p>
 
@@ -80,8 +85,8 @@ class DataScholar:
 
 <p align="center">
 
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/> Tableau  
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40"/> Power BI  
 
 </p>
 
@@ -91,9 +96,9 @@ class DataScholar:
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/> Apache Spark  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/> Apache Airflow  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40"/> Hadoop  
 
 </p>
 
@@ -103,7 +108,9 @@ class DataScholar:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="40"/> PostgreSQL  
+<img src="https://skillicons.dev/icons?i=mongodb" width="40"/> MongoDB  
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/> MySQL  
 
 </p>
 
