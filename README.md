@@ -70,18 +70,6 @@ class DataScholar:
 ══════════════ ✦ 📜 ✦ ══════════════
 </p>
 
-# 📊 Library Statistics Dashboard
-
-<h2 align="center">📊 Library Statistics</h2>
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mysticalayushi&show_icons=true&theme=gruvbox&hide_border=true&cache_seconds=86400"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticalayushi&layout=compact&theme=gruvbox&hide_border=true&cache_seconds=86400"/>
-
-</p>
-
 # 📚 Library of Technical Knowledge
 
 ## 🧠 Languages
