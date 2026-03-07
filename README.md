@@ -62,7 +62,9 @@ class DataScholar:
 📖 I believe that behind every dataset lies a **narrative waiting to be uncovered.**  
 🪶 My goal is to transform **raw data → insight → knowledge → impact.**
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+</p>
 
 # 📚 Library of Technical Knowledge
 
