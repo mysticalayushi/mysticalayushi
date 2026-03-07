@@ -40,12 +40,16 @@ class DataScholar:
             "Data is like a manuscript — chaotic at first, "
             "but through analysis it reveals powerful stories."
         )
-```
+<p align="center">
+━━━━━━━━━━━━━━ 📚 ━━━━━━━━━━━━━━
+</p>
 
 📖 I believe that behind every dataset lies a narrative waiting to be uncovered.  
 🪶 My goal is to transform raw data into insight, insight into knowledge, and knowledge into impact.
 
----
+<p align="center">
+━━━━━━━━━━━━━━ 📚 ━━━━━━━━━━━━━━
+</p>
 
 # 📚 Library of Technical Knowledge
 
@@ -57,7 +61,9 @@ class DataScholar:
 | 🟩 | SQL |
 | 🟨 | R |
 
----
+<p align="center">
+━━━━━━━━━━━━━━ 📚 ━━━━━━━━━━━━━━
+</p>
 
 ### 📊 Data Science Shelf
 
@@ -69,7 +75,9 @@ class DataScholar:
 | 📕 | Matplotlib |
 | 📗 | Seaborn |
 
----
+<p align="center">
+━━━━━━━━━━━━━━ 📚 ━━━━━━━━━━━━━━
+</p>
 
 ### 📈 Visualization Shelf
 
@@ -78,7 +86,9 @@ class DataScholar:
 | 📒 | Tableau |
 | 📓 | Power BI |
 
----
+<p align="center">
+━━━━━━━━━━━━━━ 📚 ━━━━━━━━━━━━━━
+</p>
 
 ### ⚙️ Data Engineering Shelf
 
@@ -88,7 +98,9 @@ class DataScholar:
 | 📗 | Apache Airflow |
 | 📘 | Hadoop |
 
----
+<p align="center">
+━━━━━━━━━━━━━━ 📚 ━━━━━━━━━━━━━━
+</p>
 
 ### 🗄 Database Archives
 
@@ -98,7 +110,9 @@ class DataScholar:
 | 📙 | MongoDB |
 | 📗 | MySQL |
 
----
+<p align="center">
+━━━━━━━━━━━━━━ 📚 ━━━━━━━━━━━━━━
+</p>
 
 ### 🧰 Tools of the Trade
 
@@ -111,7 +125,9 @@ class DataScholar:
 ![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=for-the-badge&logo=apachespark)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
 
----
+<p align="center">
+━━━━━━━━━━━━━━ 📚 ━━━━━━━━━━━━━━
+</p>
 
 📜 **Correspondence with the Author**
 
