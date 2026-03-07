@@ -107,12 +107,13 @@ class DataScholar:
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 ![Apache Spark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=for-the-badge&logo=apachespark)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-༺═────────────═༻
-<p align="center">
+
 
 ══════════════ 🕊️ ══════════════
 
 📜 <b>Correspondence with the Author</b>
+
+<p align="center">
 
 <i>If you wish to discuss data, ideas, or collaborations,  
 send a letter through one of the channels below.</i>
