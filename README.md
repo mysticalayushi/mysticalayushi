@@ -1,19 +1,9 @@
 <p align="center">
 
-<div align="center" style="
-background-image:url('https://www.transparenttextures.com/patterns/aged-paper.png');
-background-color:#f5e6c8;
-padding:40px;
-border-radius:10px;
-width:80%;
-margin:auto;
-">
-
-<img src="https://readme-typing-svg.demolab.com?font=Garamond&size=30&duration=4000&pause=1000&color=8B5A2B&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insight;Insight+into+Knowledge;Stories+Hidden+Within+Data"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Garamond&size=28&duration=4000&pause=1000&color=C9A86A&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Library;Where+Data+Becomes+Stories;Exploring+Patterns+Hidden+in+Numbers;Turning+Data+into+Insight+and+Insight+into+Knowledge" />
 
 </p>
+
 *"In a world overflowing with information, I seek the stories hidden within data."*
 
 ```python
