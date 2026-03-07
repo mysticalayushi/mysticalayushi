@@ -163,18 +163,42 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 
 # 📚 Featured Projects Shelf
 
-<p align="center">
-<i>Manuscripts and research preserved in my digital archive</i>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Featured Projects Shelf</title>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-<a href="Online-Shopping_Cart.html">
-  <i class="fas fa-book fa-2x"></i>
-</a>
+  <!-- Link to your CSS file -->
+  <link rel="stylesheet" href="style.css">
+</head>
 
-<a href="food-bridge-analytics-dashboard.html">
-  <i class="fas fa-folder-open fa-2x"></i>
-</a>
+<body>
+
+<section class="projects">
+
+  <h2>📚 Featured Projects Shelf</h2>
+  <p class="subtitle">Manuscripts and research preserved in my digital archive</p>
+
+  <div class="project-container">
+
+    <a href="https://github.com/mysticalayushi/Online-Shopping-Cart" class="project-card">
+      <div class="icon">🛒</div>
+      <h3>Online Shopping Cart</h3>
+    </a>
+
+    <a href="https://github.com/mysticalayushi/food-bridge-analytics-dashboard" class="project-card">
+      <div class="icon">📊</div>
+      <h3>Food Bridge Analytics Dashboard</h3>
+    </a>
+
+  </div>
+
+</section>
+
+</body>
+</html>
 
 # 📊 Library Analytics Dashboard
 
