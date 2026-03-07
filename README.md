@@ -72,15 +72,13 @@ class DataScholar:
 
 # 📊 Library Statistics Dashboard
 
-<p align="center">
-<i>Records from the archives of my scholarly work</i>
-</p>
+<h2 align="center">📊 Library Statistics</h2>
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mysticalayushi&show_icons=true&theme=gruvbox&title_color=8B5A2B&icon_color=D4AF37&text_color=5C4326&bg_color=FFF8DC"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mysticalayushi&show_icons=true&theme=gruvbox&hide_border=true&cache_seconds=86400"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticalayushi&layout=compact&theme=gruvbox&title_color=8B5A2B&text_color=5C4326&bg_color=FFF8DC"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticalayushi&layout=compact&theme=gruvbox&hide_border=true&cache_seconds=86400"/>
 
 </p>
 
