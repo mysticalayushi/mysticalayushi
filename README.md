@@ -10,6 +10,8 @@
 
 ---
 
+# 📜 The Scholar
+
 ```python
 class DataScholar:
 
@@ -18,7 +20,7 @@ class DataScholar:
         # Identity
         self.name = "Ayushi Rai"
         self.role = "Data Science Student"
-        self.interests = ["Machine Learning", "Data Analytics", "AI"]
+        self.location = "India"
 
         # Interests
         self.interests = [
@@ -38,8 +40,8 @@ class DataScholar:
         self.current_focus = [
             "Machine Learning",
             "Exploratory Data Analysis",
-            "Building Data Pipelines",
-            "Data Visualization"
+            "Data Visualization",
+            "Building Data Pipelines"
         ]
 
         # Tools Used
@@ -59,41 +61,29 @@ class DataScholar:
 
     def introduce(self):
         return f"{self.name} | {self.role} | Based in {self.location}"
-
-    def __str__(self):
-        return (
-            f"Name: {self.name}\n"
-            f"Role: {self.role}\n"
-            f"Location: {self.location}\n"
-            f"Domains: {', '.join(self.domains)}\n"
-            f"Tools: {', '.join(self.tools)}"
-        )
 ```
 
-📖 I believe that behind every dataset lies a narrative waiting to be uncovered.  
+📖 I believe that behind every dataset lies a **narrative waiting to be uncovered.**  
 🪶 My goal is to transform **raw data → insight → knowledge → impact.**
 
 ---
 
 # 📚 Library of Technical Knowledge
 
-<p align="center">
-━━━━━━━━━━━━━━ 📚 ━━━━━━━━━━━━━━
-</p>
-
 ## 🧠 Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="40"/>  
-<b>Python</b>
+<img src="https://skillicons.dev/icons?i=python" width="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=r" width="45"/>
 
-<img src="https://skillicons.dev/icons?i=mysql" width="40"/>  
-<b>SQL</b>
+</p>
 
-<img src="https://skillicons.dev/icons?i=r" width="40"/>  
-<b>R</b>
-
+<p align="center">
+Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R
 </p>
 
 ---
@@ -102,21 +92,20 @@ class DataScholar:
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>  
-<b>Pandas</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>  
-<b>NumPy</b>
+</p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>  
-<b>Scikit-Learn</b>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>  
-<b>Matplotlib</b>
-
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>  
-<b>Seaborn</b>
-
+<p align="center">
+Pandas &nbsp;&nbsp; NumPy &nbsp;&nbsp; Scikit-Learn &nbsp;&nbsp; Matplotlib &nbsp;&nbsp; Seaborn
 </p>
 
 ---
@@ -125,12 +114,14 @@ class DataScholar:
 
 <p align="center">
 
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/>  
-<b>Tableau</b>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="45"/>
 
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40"/>  
-<b>Power BI</b>
+</p>
 
+<p align="center">
+Tableau &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Power BI
 </p>
 
 ---
@@ -139,32 +130,16 @@ class DataScholar:
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/>  
-<b>Apache Spark</b>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/>  
-<b>Apache Airflow</b>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40"/>  
-<b>Hadoop</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="45"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45"/>
 
 </p>
 
----
-
-## 🗄 Database Archives
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres" width="40"/>  
-<b>PostgreSQL</b>
-
-<img src="https://skillicons.dev/icons?i=mongodb" width="40"/>  
-<b>MongoDB</b>
-
-<img src="https://skillicons.dev/icons?i=mysql" width="40"/>  
-<b>MySQL</b>
-
+Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 </p>
 
 ---
@@ -189,14 +164,8 @@ class DataScholar:
 # 📊 Library Analytics Dashboard
 
 <p align="center">
-━━━━━━━━━━━━━━ 📊 ━━━━━━━━━━━━━━
-</p>
-
-<p align="center">
 <i>Statistics from the archives of my coding journey</i>
 </p>
-
----
 
 ## 🔥 Consistency of the Scholar
 
@@ -218,8 +187,13 @@ class DataScholar:
 
 ---
 
-📖 Visitor Logbook
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mysticalayushi&label=Visitors%20to%20the%20Library&color=C9A86A&style=for-the-badge"/> </p>
+# 📖 Visitor Logbook
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mysticalayushi&label=Visitors%20to%20the%20Library&color=C9A86A&style=for-the-badge"/>
+
+</p>
 
 ---
 
