@@ -15,17 +15,26 @@ class DataScholar:
 
     def __init__(self):
 
-       self.name = "Ayushi Rai"
-self.role = "Data Science Student"
-self.location = "India"
-self.interests = ["Machine Learning", "Data Analytics", "AI"]
+        # Identity
+        self.name = "Ayushi Rai"
+        self.role = "Data Science Student"
+        self.location = "India"
 
+        # Interests
+        self.interests = [
+            "Machine Learning",
+            "Data Analytics",
+            "Artificial Intelligence"
+        ]
+
+        # Domains of Study
         self.domains = [
             "Data Science",
             "Data Analytics",
             "Data Engineering"
         ]
 
+        # Current Focus
         self.current_focus = [
             "Machine Learning",
             "Exploratory Data Analysis",
@@ -33,6 +42,7 @@ self.interests = ["Machine Learning", "Data Analytics", "AI"]
             "Data Visualization"
         ]
 
+        # Tools Used
         self.tools = [
             "Python",
             "SQL",
@@ -41,9 +51,22 @@ self.interests = ["Machine Learning", "Data Analytics", "AI"]
             "Jupyter"
         ]
 
+        # Philosophy
         self.philosophy = (
             "Data is like a manuscript — chaotic at first, "
             "but through analysis it reveals powerful stories."
+        )
+
+    def introduce(self):
+        return f"{self.name} | {self.role} | Based in {self.location}"
+
+    def __str__(self):
+        return (
+            f"Name: {self.name}\n"
+            f"Role: {self.role}\n"
+            f"Location: {self.location}\n"
+            f"Domains: {', '.join(self.domains)}\n"
+            f"Tools: {', '.join(self.tools)}"
         )
 ```
 
