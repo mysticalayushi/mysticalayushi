@@ -94,7 +94,7 @@ class DataScholar:
 | 📘 | PostgreSQL |
 | 📙 | MongoDB |
 | 📗 | MySQL |
-༺═────────────═༻
+
 ### 🧰 Tools of the Trade
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -106,7 +106,6 @@ class DataScholar:
 ![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=for-the-badge&logo=apachespark)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
 
-══════════════ 🕊️ ══════════════
 
 📜 <b>Correspondence with the Author</b>
 
