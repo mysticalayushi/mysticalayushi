@@ -160,6 +160,10 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 
 </p>
 
+<p align="center">    
+══════════════ ✦ 📜 ✦ ══════════════
+</p>
+
 
 # 📚 Featured Projects Shelf
 
@@ -171,6 +175,10 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 <a href="https://github.com/mysticalayushi/food-bridge-analytics-dashboard">
 <img src="https://img.shields.io/badge/Project-Food%20Bridge%20Analytics-green?style=for-the-badge">
 </a>
+</p>
+
+<p align="center">    
+══════════════ ✦ 📜 ✦ ══════════════
 </p>
 
 # 📊 Library Analytics Dashboard
