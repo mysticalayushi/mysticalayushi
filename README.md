@@ -1,16 +1,19 @@
+<p align="center">
+
 <div align="center" style="
-background-image:url('https://i.imgur.com/6Iej2c3.jpg');
-background-size:cover;
-padding:50px;
-border-radius:12px;
-width:85%;
+background-image:url('https://www.transparenttextures.com/patterns/aged-paper.png');
+background-color:#f5e6c8;
+padding:40px;
+border-radius:10px;
+width:80%;
 margin:auto;
 ">
 
-<img src="https://readme-typing-svg.demolab.com?font=Garamond&size=32&duration=4000&pause=1000&color=5B3A29&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insight;Insight+into+Knowledge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Garamond&size=30&duration=4000&pause=1000&color=8B5A2B&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insight;Insight+into+Knowledge;Stories+Hidden+Within+Data"/>
 
 </div>
 
+</p>
 *"In a world overflowing with information, I seek the stories hidden within data."*
 
 ```python
