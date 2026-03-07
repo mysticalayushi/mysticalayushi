@@ -1,13 +1,13 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Garamond&size=40&duration=4000&pause=1000&color=4B3217&center=true&vCenter=true&width=950&height=260&background=F3E2C4&lines=📜+Welcome+to+my+Digital+Library;Where+Data+Becomes+Stories;Exploring+Patterns+Hidden+in+Numbers;Turning+Data+into+Insight+and+Insight+into+Knowledge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Garamond&size=36&duration=4000&pause=1000&color=4B3217&center=true&vCenter=true&width=900&height=220&background=F3E2C4&multiline=true&lines=📜+Welcome+to+my+Digital+Library;Where+Data+Becomes+Stories;Exploring+Patterns+Hidden+in+Numbers;Turning+Data+into+Insight+and+Insight+into+Knowledge" />
 
 </p>
 
 <p align="center">
 <i>"In a world overflowing with information, I seek the stories hidden within data."</i>
 </p>
----
+
 
 # 📜 The Scholar
 
