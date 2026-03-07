@@ -1,5 +1,9 @@
 <p align="center">
-<img src="https://www.publicdomainpictures.net/pictures/320000/velka/old-paper-parchment-background.jpg" width="750"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="0">
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ayushkumar2301/Ayushkumar2301/master/assets/parchment.png" width="750"/>
 </p>
 
 <p align="center">
