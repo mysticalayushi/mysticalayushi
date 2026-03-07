@@ -132,8 +132,7 @@ send a letter through one of the channels below.</i>
 
 </p>
 
-<p align="center">
 
 ══════════════ ✒️ ══════════════
 
-</p>
+
