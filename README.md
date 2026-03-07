@@ -70,6 +70,20 @@ class DataScholar:
 ══════════════ ✦ 📜 ✦ ══════════════
 </p>
 
+# 📊 Library Statistics Dashboard
+
+<p align="center">
+<i>Records from the archives of my scholarly work</i>
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mysticalayushi&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=C9A86A&icon_color=C9A86A&text_color=E6D5A8"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticalayushi&layout=compact&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=C9A86A&text_color=E6D5A8"/>
+
+</p>
+
 # 📚 Library of Technical Knowledge
 
 ## 🧠 Languages
@@ -163,6 +177,27 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 
 <p align="center">
 ══════════════ ✦ 📜 ✦ ══════════════
+</p>
+<p align="center">
+══════════════ ✦ 📜 ✦ ══════════════
+</p>
+
+# 📚 Featured Projects Shelf
+
+<p align="center">
+<i>Manuscripts and research preserved in my digital archive</i>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/mysticalayushi/Online-Shopping-Cart">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mysticalayushi&repo=project1&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=C9A86A&text_color=E6D5A8"/>
+</a>
+
+<a href="https://github.com/mysticalayushi/food-bridge-analytics-dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mysticalayushi&repo=project2&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=C9A86A&text_color=E6D5A8"/>
+</a>
+
 </p>
 
 # 📊 Library Analytics Dashboard
