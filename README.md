@@ -162,6 +162,50 @@ class DataScholar:
 
 ---
 
+# 📊 Library Analytics Dashboard
+
+<p align="center">
+━━━━━━━━━━━━━━ 📊 ━━━━━━━━━━━━━━
+</p>
+
+<p align="center">
+<i>Statistics from the archives of my coding journey</i>
+</p>
+
+---
+
+## 📚 Repository Activity
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mysticalayushi&show_icons=true&theme=gruvbox&hide_border=true&title_color=C9A86A&icon_color=C9A86A&text_color=E6D5A8&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticalayushi&layout=compact&theme=gruvbox&hide_border=true&title_color=C9A86A&text_color=E6D5A8&bg_color=0d1117"/>
+
+</p>
+
+---
+
+## 🔥 Consistency of the Scholar
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mysticalayushi&theme=gruvbox&hide_border=true&background=0d1117&ring=C9A86A&fire=C9A86A&currStreakLabel=C9A86A"/>
+
+</p>
+
+---
+
+## 📜 Contribution Chronicle
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mysticalayushi&bg_color=0d1117&color=C9A86A&line=C9A86A&point=E6D5A8&area=true&hide_border=true"/>
+
+</p>
+
+---
+
 # 📜 Correspondence with the Author
 
 <p align="center">
