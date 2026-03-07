@@ -1,14 +1,10 @@
-<div align="center" style="position: relative; width: 750px; margin:auto;">
+<p align="center">
+<img src="https://www.publicdomainpictures.net/pictures/320000/velka/old-paper-parchment-background.jpg" width="750"/>
+</p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Old_parchment_background.jpg" width="750"/>
-
-<div style="position:absolute; top:40%; left:50%; transform:translate(-50%,-50%);">
-
-<img src="https://readme-typing-svg.demolab.com?font=Garamond&size=32&duration=4000&pause=1000&color=5C4326&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+Library;Where+Data+Becomes+Stories;Exploring+Patterns+Hidden+in+Numbers;Turning+Data+into+Insight+and+Insight+into+Knowledge"/>
-
-</div>
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Garamond&size=32&duration=4000&pause=1000&color=5C4326&center=true&vCenter=true&width=720&lines=Welcome+to+my+Digital+Library;Where+Data+Becomes+Stories;Exploring+Patterns+Hidden+in+Numbers;Turning+Data+into+Insight+and+Insight+into+Knowledge"/>
+</p>
 
 <p align="center">
 <i>"In a world overflowing with information, I seek the stories hidden within data."</i>
