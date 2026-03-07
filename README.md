@@ -78,9 +78,9 @@ class DataScholar:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mysticalayushi&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=C9A86A&icon_color=C9A86A&text_color=E6D5A8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mysticalayushi&show_icons=true&theme=gruvbox&title_color=8B5A2B&icon_color=D4AF37&text_color=5C4326&bg_color=FFF8DC"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticalayushi&layout=compact&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=C9A86A&text_color=E6D5A8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticalayushi&layout=compact&theme=gruvbox&title_color=8B5A2B&text_color=5C4326&bg_color=FFF8DC"/>
 
 </p>
 
