@@ -50,7 +50,9 @@ class DataScholar:
 🪶 My goal is to transform **raw data → insight → knowledge → impact.**
 
 ---
+
 # 📚 Library of Technical Knowledge
+
 <p align="center">
 ━━━━━━━━━━━━━━ 📚 ━━━━━━━━━━━━━━
 </p>
@@ -59,9 +61,14 @@ class DataScholar:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="40"/> Python  
-<img src="https://skillicons.dev/icons?i=mysql" width="40"/> SQL  
-<img src="https://skillicons.dev/icons?i=r" width="40"/> R  
+<img src="https://skillicons.dev/icons?i=python" width="40"/>  
+<b>Python</b>
+
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/>  
+<b>SQL</b>
+
+<img src="https://skillicons.dev/icons?i=r" width="40"/>  
+<b>R</b>
 
 </p>
 
@@ -71,11 +78,20 @@ class DataScholar:
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> Pandas  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> NumPy  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> Scikit-Learn  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/> Matplotlib  
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/> Seaborn  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>  
+<b>Pandas</b>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>  
+<b>NumPy</b>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>  
+<b>Scikit-Learn</b>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>  
+<b>Matplotlib</b>
+
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>  
+<b>Seaborn</b>
 
 </p>
 
@@ -85,8 +101,11 @@ class DataScholar:
 
 <p align="center">
 
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/> Tableau  
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40"/> Power BI  
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/>  
+<b>Tableau</b>
+
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40"/>  
+<b>Power BI</b>
 
 </p>
 
@@ -96,9 +115,14 @@ class DataScholar:
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/> Apache Spark  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/> Apache Airflow  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40"/> Hadoop  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/>  
+<b>Apache Spark</b>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/>  
+<b>Apache Airflow</b>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40"/>  
+<b>Hadoop</b>
 
 </p>
 
@@ -108,9 +132,14 @@ class DataScholar:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres" width="40"/> PostgreSQL  
-<img src="https://skillicons.dev/icons?i=mongodb" width="40"/> MongoDB  
-<img src="https://skillicons.dev/icons?i=mysql" width="40"/> MySQL  
+<img src="https://skillicons.dev/icons?i=postgres" width="40"/>  
+<b>PostgreSQL</b>
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="40"/>  
+<b>MongoDB</b>
+
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/>  
+<b>MySQL</b>
 
 </p>
 
@@ -136,10 +165,8 @@ class DataScholar:
 # 📜 Correspondence with the Author
 
 <p align="center">
-
-<i>If you wish to discuss data, ideas, or collaborations,  
+<i>If you wish to discuss data, ideas, or collaborations,<br>
 send a letter through one of the channels below.</i>
-
 </p>
 
 <p align="center">
@@ -157,7 +184,5 @@ send a letter through one of the channels below.</i>
 ---
 
 <p align="center">
-
-📚 *"Every dataset is a manuscript waiting to be read."*
-
+📚 <i>"Every dataset is a manuscript waiting to be read."</i>
 </p>
