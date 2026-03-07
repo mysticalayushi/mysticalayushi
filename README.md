@@ -84,7 +84,9 @@ class DataScholar:
 Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+</p>
 
 ## 📊 Data Science Shelf
 
@@ -106,7 +108,9 @@ Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R
 Pandas &nbsp;&nbsp; NumPy &nbsp;&nbsp; Scikit-Learn &nbsp;&nbsp; Matplotlib &nbsp;&nbsp; Seaborn
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+</p>
 
 ## 📈 Visualization Shelf
 
@@ -122,7 +126,9 @@ Pandas &nbsp;&nbsp; NumPy &nbsp;&nbsp; Scikit-Learn &nbsp;&nbsp; Matplotlib &nbs
 Tableau &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Power BI
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+</p>
 
 ## ⚙️ Data Engineering Shelf
 
@@ -140,7 +146,9 @@ Tableau &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Power BI
 Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+</p>
 
 # 🧰 Tools of the Trade
 
@@ -157,7 +165,9 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+</p>
 
 # 📊 Library Analytics Dashboard
 
@@ -172,8 +182,9 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 <img src="https://streak-stats.demolab.com?user=mysticalayushi&theme=gruvbox&hide_border=true&background=0d1117&ring=C9A86A&fire=C9A86A&currStreakLabel=C9A86A"/>
 
 </p>
-
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+</p>
 
 ## 📜 Contribution Chronicle
 
@@ -183,7 +194,9 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+</p>
 
 # 📖 Visitor Logbook
 
@@ -193,7 +206,9 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+</p>
 
 # 📜 Correspondence with the Author
 
@@ -214,7 +229,9 @@ send a letter through one of the channels below.</i>
 
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+</p>
 
 <p align="center">
 📚 <i>"Every dataset is a manuscript waiting to be read."</i>
