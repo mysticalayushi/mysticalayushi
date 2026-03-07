@@ -63,9 +63,8 @@ class DataScholar:
 🪶 My goal is to transform **raw data → insight → knowledge → impact.**
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+══════════════ ✦ 📜 ✦ ══════════════
 </p>
-
 # 📚 Library of Technical Knowledge
 
 ## 🧠 Languages
@@ -85,9 +84,8 @@ Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+══════════════ ✦ 📜 ✦ ══════════════
 </p>
-
 ## 📊 Data Science Shelf
 
 <p align="center">
@@ -109,7 +107,7 @@ Pandas &nbsp;&nbsp; NumPy &nbsp;&nbsp; Scikit-Learn &nbsp;&nbsp; Matplotlib &nbs
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+══════════════ ✦ 📜 ✦ ══════════════
 </p>
 
 ## 📈 Visualization Shelf
@@ -127,9 +125,8 @@ Tableau &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Power BI
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+══════════════ ✦ 📜 ✦ ══════════════
 </p>
-
 ## ⚙️ Data Engineering Shelf
 
 <p align="center">
@@ -145,11 +142,9 @@ Tableau &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Power BI
 <p align="center">
 Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 </p>
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+══════════════ ✦ 📜 ✦ ══════════════
 </p>
-
 # 🧰 Tools of the Trade
 
 <p align="center">
@@ -166,7 +161,7 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+══════════════ ✦ 📜 ✦ ══════════════
 </p>
 
 # 📊 Library Analytics Dashboard
@@ -183,7 +178,7 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 
 </p>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+══════════════ ✦ 📜 ✦ ══════════════
 </p>
 
 ## 📜 Contribution Chronicle
@@ -193,9 +188,8 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mysticalayushi&bg_color=0d1117&color=C9A86A&line=C9A86A&point=E6D5A8&area=true&hide_border=true"/>
 
 </p>
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+══════════════ ✦ 📜 ✦ ══════════════
 </p>
 
 # 📖 Visitor Logbook
@@ -230,7 +224,7 @@ send a letter through one of the channels below.</i>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+══════════════ ✦ 📜 ✦ ══════════════
 </p>
 
 <p align="center">
