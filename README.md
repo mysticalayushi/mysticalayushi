@@ -18,7 +18,7 @@ class DataScholar:
         # Identity
         self.name = "Ayushi Rai"
         self.role = "Data Science Student"
-        self.location = "India"
+        self.interests = ["Machine Learning", "Data Analytics", "AI"]
 
         # Interests
         self.interests = [
