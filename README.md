@@ -71,7 +71,6 @@ class DataScholar:
 </p>
 
 # 📚 Library of Technical Knowledge
-
 ## 🧠 Languages
 
 <p align="center">
