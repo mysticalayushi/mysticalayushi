@@ -177,8 +177,6 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 <body>
 
 <section class="projects">
-
-  <h2>📚 Featured Projects Shelf</h2>
   <p class="subtitle">Manuscripts and research preserved in my digital archive</p>
 
   <div class="project-container">
