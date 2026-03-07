@@ -15,9 +15,10 @@ class DataScholar:
 
     def __init__(self):
 
-        self.name = "Your Name"
-        self.role = "Aspiring Data Scientist"
-        self.location = "India"
+       self.name = "Ayushi Rai"
+self.role = "Data Science Student"
+self.location = "India"
+self.interests = ["Machine Learning", "Data Analytics", "AI"]
 
         self.domains = [
             "Data Science",
