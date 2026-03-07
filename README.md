@@ -241,3 +241,7 @@ send a letter through one of the channels below.</i>
 <p align="center">
 📚 <i>"Every dataset is a manuscript waiting to be read."</i>
 </p>
+
+## 📜 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
