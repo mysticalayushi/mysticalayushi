@@ -1,9 +1,15 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="0">
+<img src="<p align="center">
+<img src="https://raw.githubusercontent.com/mysticalayushi/mysticalayushi/main/parchment.png" width="750"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Ayushkumar2301/Ayushkumar2301/master/assets/parchment.png" width="750"/>
+<img src="https://readme-typing-svg.demolab.com?font=Garamond&size=32&duration=4000&pause=1000&color=5C4326&center=true&vCenter=true&width=720&lines=Welcome+to+my+Digital+Library;Where+Data+Becomes+Stories;Exploring+Patterns+Hidden+in+Numbers;Turning+Data+into+Insight+and+Insight+into+Knowledge"/>
+</p>
+
+<p align="center">
+<i>"In a world overflowing with information, I seek the stories hidden within data."</i>
+</p>" width="750"/>
 </p>
 
 <p align="center">
