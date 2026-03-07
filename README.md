@@ -40,11 +40,10 @@ class DataScholar:
             "Data is like a manuscript — chaotic at first, "
             "but through analysis it reveals powerful stories."
         )
-༺═────────────═༻
-📖 I believe that behind every dataset lies a narrative waiting to be uncovered.
 
+📖 I believe that behind every dataset lies a narrative waiting to be uncovered.
 🪶 My goal is to transform raw data into insight, insight into knowledge, and knowledge into impact
-༺═────────────═༻
+
 # 📚 Library of Technical Knowledge
 
 ### 🧠 Languages
