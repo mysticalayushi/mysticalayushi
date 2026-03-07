@@ -59,8 +59,7 @@ class DataScholar:
             "but through analysis it reveals powerful stories."
         )
 
-    def introduce(self):
-        return f"{self.name} | {self.role} | Based in {self.location}"
+ 
 ```
 
 📖 I believe that behind every dataset lies a **narrative waiting to be uncovered.**  
