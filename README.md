@@ -163,40 +163,15 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 
 # 📚 Featured Projects Shelf
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Featured Projects Shelf</title>
+<p>
+<a href="https://github.com/mysticalayushi/Online-Shopping-Cart">
+<img src="https://img.shields.io/badge/Project-Online%20Shopping%20Cart-blue?style=for-the-badge">
+</a>
 
-  <!-- Link to your CSS file -->
-  <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-
-<section class="projects">
-  <p class="subtitle">Manuscripts and research preserved in my digital archive</p>
-
-  <div class="project-container">
-
-    <a href="https://github.com/mysticalayushi/Online-Shopping-Cart" class="project-card">
-      <div class="icon">🛒</div>
-      <h3>Online Shopping Cart</h3>
-    </a>
-
-    <a href="https://github.com/mysticalayushi/food-bridge-analytics-dashboard" class="project-card">
-      <div class="icon">📊</div>
-      <h3>Food Bridge Analytics Dashboard</h3>
-    </a>
-
-  </div>
-
-</section>
-
-</body>
-</html>
+<a href="https://github.com/mysticalayushi/food-bridge-analytics-dashboard">
+<img src="https://img.shields.io/badge/Project-Food%20Bridge%20Analytics-green?style=for-the-badge">
+</a>
+</p>
 
 # 📊 Library Analytics Dashboard
 
