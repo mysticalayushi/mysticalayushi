@@ -1,10 +1,14 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Garamond&size=28&duration=4000&pause=1000&color=C9A86A&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Library;Where+Data+Becomes+Stories;Exploring+Patterns+Hidden+in+Numbers;Turning+Data+into+Insight+and+Insight+into+Knowledge" />
+<img src="https://readme-typing-svg.demolab.com?font=Garamond&size=30&duration=4000&pause=1000&color=C9A86A&center=true&vCenter=true&width=750&lines=Welcome+to+my+Digital+Library;Where+Data+Becomes+Stories;Exploring+Patterns+Hidden+in+Numbers;Turning+Data+into+Insight+and+Insight+into+Knowledge" />
 
 </p>
 
-*"In a world overflowing with information, I seek the stories hidden within data."*
+<p align="center">
+<i>"In a world overflowing with information, I seek the stories hidden within data."</i>
+</p>
+
+---
 
 ```python
 class DataScholar:
@@ -43,64 +47,71 @@ class DataScholar:
 ```
 
 📖 I believe that behind every dataset lies a narrative waiting to be uncovered.  
-🪶 My goal is to transform raw data into insight, insight into knowledge, and knowledge into impact.
+🪶 My goal is to transform **raw data → insight → knowledge → impact.**
 
 ---
 
 # 📚 Library of Technical Knowledge
 
-### 🧠 Languages
+## 🧠 Languages
 
-| 📘 Book | Skill |
-|------|------|
-| 🟦 | Python |
-| 🟩 | SQL |
-| 🟨 | R |
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,r,mysql"/>
 
-### 📊 Data Science Shelf
-
-| 📕 | Tool |
-|----|----|
-| 📗 | Pandas |
-| 📘 | NumPy |
-| 📙 | Scikit-Learn |
-| 📕 | Matplotlib |
-| 📗 | Seaborn |
+</p>
 
 ---
 
-### 📈 Visualization Shelf
+## 📊 Data Science Shelf
 
-| 📓 | Tool |
-|----|----|
-| 📒 | Tableau |
-| 📓 | Power BI |
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
 
-### ⚙️ Data Engineering Shelf
-
-| 📔 | Tool |
-|----|----|
-| 📕 | Apache Spark |
-| 📗 | Apache Airflow |
-| 📘 | Hadoop |
+</p>
 
 ---
 
-### 🗄 Database Archives
+## 📈 Visualization Shelf
 
-| 📚 | Database |
-|----|----|
-| 📘 | PostgreSQL |
-| 📙 | MongoDB |
-| 📗 | MySQL |
+<p align="center">
+
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="45"/>
+
+</p>
 
 ---
 
-### 🧰 Tools of the Trade
+## ⚙️ Data Engineering Shelf
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45"/>
+
+</p>
+
+---
+
+## 🗄 Database Archives
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
+
+</p>
+
+---
+
+# 🧰 Tools of the Trade
+
+<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
@@ -111,9 +122,11 @@ class DataScholar:
 ![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=for-the-badge&logo=apachespark)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
 
+</p>
+
 ---
 
-📜 **Correspondence with the Author**
+# 📜 Correspondence with the Author
 
 <p align="center">
 
@@ -134,3 +147,10 @@ send a letter through one of the channels below.</i>
 
 </p>
 
+---
+
+<p align="center">
+
+📚 *"Every dataset is a manuscript waiting to be read."*
+
+</p>
