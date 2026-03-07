@@ -230,6 +230,16 @@ class DataScholar:
 
 ---
 
+🏆 Achievements in the Archive
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mysticalayushi&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10"/> </p>
+
+---
+
+📖 Visitor Logbook
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mysticalayushi&label=Visitors%20to%20the%20Library&color=C9A86A&style=for-the-badge"/> </p>
+
+---
+
 # 📜 Correspondence with the Author
 
 <p align="center">
