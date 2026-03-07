@@ -176,10 +176,6 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 
 </p>
 
-<p align="center">
-══════════════ ✦ 📜 ✦ ══════════════
-</p>
-
 
 # 📚 Featured Projects Shelf
 
