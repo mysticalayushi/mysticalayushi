@@ -6,6 +6,10 @@
 <i>"In a world overflowing with information, I seek the stories hidden within data."</i>
 </p>
 
+<p align="center">
+══════════════ ✦ 📜 ✦ ══════════════
+</p>
+
 # 📜 The Scholar
 
 ```python
@@ -65,18 +69,17 @@ class DataScholar:
 <p align="center">
 ══════════════ ✦ 📜 ✦ ══════════════
 </p>
+
 # 📚 Library of Technical Knowledge
 
 ## 🧠 Languages
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python" width="45"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=r" width="45"/>
-
 </p>
 
 <p align="center">
@@ -86,10 +89,10 @@ Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R
 <p align="center">
 ══════════════ ✦ 📜 ✦ ══════════════
 </p>
+
 ## 📊 Data Science Shelf
 
 <p align="center">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
@@ -99,7 +102,6 @@ Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/>
-
 </p>
 
 <p align="center">
@@ -113,11 +115,9 @@ Pandas &nbsp;&nbsp; NumPy &nbsp;&nbsp; Scikit-Learn &nbsp;&nbsp; Matplotlib &nbs
 ## 📈 Visualization Shelf
 
 <p align="center">
-
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="45"/>
-
 </p>
 
 <p align="center">
@@ -127,24 +127,25 @@ Tableau &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Power BI
 <p align="center">
 ══════════════ ✦ 📜 ✦ ══════════════
 </p>
+
 ## ⚙️ Data Engineering Shelf
 
 <p align="center">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="45"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45"/>
-
 </p>
 
 <p align="center">
 Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 </p>
+
 <p align="center">
 ══════════════ ✦ 📜 ✦ ══════════════
 </p>
+
 # 🧰 Tools of the Trade
 
 <p align="center">
@@ -173,10 +174,9 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 ## 🔥 Consistency of the Scholar
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=mysticalayushi&theme=gruvbox&hide_border=true&background=0d1117&ring=C9A86A&fire=C9A86A&currStreakLabel=C9A86A"/>
-
 </p>
+
 <p align="center">
 ══════════════ ✦ 📜 ✦ ══════════════
 </p>
@@ -184,10 +184,9 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 ## 📜 Contribution Chronicle
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mysticalayushi&bg_color=0d1117&color=C9A86A&line=C9A86A&point=E6D5A8&area=true&hide_border=true"/>
-
 </p>
+
 <p align="center">
 ══════════════ ✦ 📜 ✦ ══════════════
 </p>
@@ -195,9 +194,7 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 # 📖 Visitor Logbook
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=mysticalayushi&label=Visitors%20to%20the%20Library&color=C9A86A&style=for-the-badge"/>
-
 </p>
 
 <p align="center">
@@ -212,7 +209,6 @@ send a letter through one of the channels below.</i>
 </p>
 
 <p align="center">
-
 <a href="mailto:ayushirai2007@gmail.com">
 <img src="https://img.shields.io/badge/Email-Send%20a%20Letter-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -220,7 +216,6 @@ send a letter through one of the channels below.</i>
 <a href="https://github.com/mysticalayushi">
 <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 <p align="center">
