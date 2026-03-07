@@ -213,6 +213,9 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 <img src="https://komarev.com/ghpvc/?username=mysticalayushi&label=Visitors%20to%20the%20Library&color=C9A86A&style=for-the-badge"/>
 </p>
 
+<p align="center">    
+══════════════ ✦ 📜 ✦ ══════════════
+</p>
 
 # 📜 Correspondence with the Author
 
