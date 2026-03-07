@@ -207,7 +207,7 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,31&height=3&section=header&text=&fontSize=0&animation=fadeIn"/>
+══════════════ ✦ 📜 ✦ ══════════════
 </p>
 
 # 📜 Correspondence with the Author
