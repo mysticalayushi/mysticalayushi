@@ -167,17 +167,14 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 <i>Manuscripts and research preserved in my digital archive</i>
 </p>
 
-<p align="center">
-
-<a href="https://github.com/mysticalayushi/Online-Shopping-Cart">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mysticalayushi&repo=project1&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=C9A86A&text_color=E6D5A8"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<a href="Online-Shopping_Cart.html">
+  <i class="fas fa-book fa-2x"></i>
 </a>
 
-<a href="https://github.com/mysticalayushi/food-bridge-analytics-dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mysticalayushi&repo=project2&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=C9A86A&text_color=E6D5A8"/>
+<a href="food-bridge-analytics-dashboard.html">
+  <i class="fas fa-folder-open fa-2x"></i>
 </a>
-
-</p>
 
 # 📊 Library Analytics Dashboard
 
