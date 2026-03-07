@@ -1,8 +1,15 @@
-<p align="center">
+<div align="center" style="
+background-image:url('https://i.imgur.com/6Iej2c3.jpg');
+background-size:cover;
+padding:50px;
+border-radius:12px;
+width:85%;
+margin:auto;
+">
 
-<img src="https://readme-typing-svg.demolab.com?font=Garamond&size=28&duration=4000&pause=1000&color=C9A86A&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Library;Where+Data+Becomes+Stories;Exploring+Patterns+Hidden+in+Numbers;Turning+Data+into+Insight+and+Insight+into+Knowledge" />
+<img src="https://readme-typing-svg.demolab.com?font=Garamond&size=32&duration=4000&pause=1000&color=5B3A29&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insight;Insight+into+Knowledge"/>
 
-</p>
+</div>
 
 *"In a world overflowing with information, I seek the stories hidden within data."*
 
