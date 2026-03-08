@@ -1,16 +1,18 @@
 <!-- Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8DCC4&height=180&section=header&text=Where%20Data%20Becomes%20Stories&fontSize=40&fontColor=5A3E2B&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8DCC4&height=170&section=header&text=Where%20Data%20Becomes%20Stories&fontSize=40&fontColor=5A3E2B&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<br><br>
+<br>
 
 <!-- Subtitle -->
 
-<h2 align="center" style="color:#F7C948;">
+<p align="center">
+<span style="font-size:28px; color:#F7C948; font-family:Cinzel,serif; letter-spacing:2px;">
 Exploring Hidden Patterns in Data
-</h2>
+</span>
+</p>
 
 <br>
 
