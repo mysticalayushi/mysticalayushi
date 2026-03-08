@@ -209,7 +209,6 @@ send a letter through one of the channels below.</i>
 <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-
 #📜 **License**
 ---
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
