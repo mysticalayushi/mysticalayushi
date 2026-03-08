@@ -1,13 +1,17 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Garamond&size=34&duration=4000&pause=1000&color=5C4326&center=true&vCenter=true&width=900&height=200&background=F5E6C8&lines=Welcome+to+my+Digital+Library;Where+Data+Becomes+Stories;Exploring+Patterns+Hidden+in+Numbers;Turning+Data+into+Insight+and+Insight+into+Knowledge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8DCC4&height=220&section=header&text=Where%20Data%20Becomes%20Stories&fontSize=40&fontColor=5A3E2B&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <p align="center">
-<i>"In a world overflowing with information, I seek the stories hidden within data."</i>
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=3500&pause=1200&color=8B5A2B&center=true&vCenter=true&width=750&lines=Welcome+to+My+Digital+Library;Where+Data+Becomes+Stories;Exploring+Hidden+Patterns+in+Data;Turning+Data+into+Knowledge"/>
 </p>
 
-<p align="center">    
-══════════════ ✦ 📜 ✦ ══════════════
+<p align="center">
+<em>"In a world overflowing with information, I seek the stories hidden within data."</em>
+</p>
+
+<p align="center">
+════════════ ✦ 📜 ✦ ════════════
 </p>
 
 # 📜 The Scholar
