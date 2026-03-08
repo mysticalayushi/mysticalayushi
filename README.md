@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8DCC4&height=170&section=header&text=Where%20Data%20Becomes%20Stories&fontSize=40&fontColor=5A3E2B&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8DCC4&height=150&section=header&text=Where%20Data%20Becomes%20Stories&fontSize=40&fontColor=5A3E2B&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <br>
@@ -9,17 +9,7 @@
 <!-- Animated Typing Text -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&duration=3500&pause=1200&color=F7C948&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+My+Digital+Library;Where+Data+Becomes+Stories;Exploring+Hidden+Patterns+in+Data;Turning+Data+into+Knowledge"/>
-</p>
-
-<br>
-
-<!-- Subtitle -->
-
-<p align="center">
-<span style="font-size:26px; color:#F7C948; font-family:Cinzel,serif; letter-spacing:2px;">
-Exploring Hidden Patterns in Data
-</span>
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=32&duration=3500&pause=1200&color=F7C948&repeat=true&center=true&vCenter=true&width=900&height=80&lines=Welcome+to+My+Digital+Library;Exploring+Hidden+Patterns+in+Data;Turning+Data+into+Knowledge;Stories+Hidden+Within+Data"/>
 </p>
 
 <br>
