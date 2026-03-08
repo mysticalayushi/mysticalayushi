@@ -197,9 +197,6 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 <img src="https://streak-stats.demolab.com?user=mysticalayushi&theme=gruvbox&hide_border=true&background=0d1117&ring=C9A86A&fire=C9A86A&currStreakLabel=C9A86A"/>
 </p>
 
-<p align="center">
-══════════════ ✦ 📜 ✦ ══════════════
-</p>
 
 ## 📜 Contribution Chronicle
 
