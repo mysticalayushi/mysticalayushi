@@ -184,17 +184,7 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 
 
 # 📚 Featured Projects Shelf
-
-<p align="center">
-<a href="https://github.com/mysticalayushi/Online-Shopping-Cart">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mysticalayushi&repo=Online-Shopping-Cart&theme=gruvbox"/>
-</a>
-
-<a href="https://github.com/mysticalayushi/food-bridge-analytics-dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mysticalayushi&repo=food-bridge-analytics-dashboard&theme=gruvbox"/>
-</a>
-</p>
-
+<p> <a href="https://github.com/mysticalayushi/Online-Shopping-Cart"> <img src="https://img.shields.io/badge/Project-Online%20Shopping%20Cart-blue?style=for-the-badge"> </a> <a href="https://github.com/mysticalayushi/food-bridge-analytics-dashboard"> <img src="https://img.shields.io/badge/Project-Food%20Bridge%20Analytics-green?style=for-the-badge"> </a> </p>
 <p align="center">    
 ══════════════ ✦ 📜 ✦ ══════════════
 </p>
