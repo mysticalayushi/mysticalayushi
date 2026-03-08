@@ -170,7 +170,7 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mysticalayushi&layout=compact&theme=gruvbox&hide_border=true"/>
 </p>
 
-## 🔥 Consistency of the Scholar
+## 🔥 Consistency of the Author
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=mysticalayushi&theme=gruvbox&hide_border=true&background=0d1117&ring=C9A86A&fire=C9A86A&currStreakLabel=C9A86A"/>
