@@ -208,3 +208,19 @@ send a letter through one of the channels below.</i>
 # 📜 **License**
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+## 📚 Epilogue
+
+You have reached the final page of this chapter.
+
+But the library of data is infinite,
+and many stories remain to be discovered.
+
+New projects will continue to be added,
+new insights will emerge,
+and the pursuit of knowledge will go on.
+
+Until the next chapter,
+thank you for visiting this library.
+
+📖
