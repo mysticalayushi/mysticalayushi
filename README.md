@@ -1,6 +1,17 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8DCC4&height=260&section=header&text=Where%20Data%20Becomes%20Stories&fontSize=50&fontColor=5A3E2B&animation=fadeIn&fontAlignY=45"/>
+<svg width="100%" height="160" viewBox="0 0 1200 160">
+  <rect width="1200" height="160" fill="#9b927f"/>
+  
+  <text x="50%" y="55%"
+        text-anchor="middle"
+        font-family="'IM Fell English', serif"
+        font-style="italic"
+        font-size="48"
+        fill="#5a3b24">
+        Where Data Becomes Stories
+  </text>
+</svg>
 </p>
 
 <br>
