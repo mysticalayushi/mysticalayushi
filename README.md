@@ -39,8 +39,8 @@
 <!-- 📊 GitHub Stats (Library Records Style) -->
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=gruvbox&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=gruvbox&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mysticalayushi&show_icons=true&theme=gruvbox&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticalayushi&layout=compact&theme=gruvbox&hide_border=true"/>
 </p>
 
 <br>
