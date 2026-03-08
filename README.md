@@ -1,7 +1,6 @@
 <!-- Banner -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8DCC4&height=150&section=header&text=Where%20Data%20Becomes%20Stories&fontSize=40&fontColor=5A3E2B&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8DCC4&height=260&section=header&text=Where%20Data%20Becomes%20Stories&fontSize=50&fontColor=5A3E2B&animation=fadeIn&fontAlignY=45"/>
 </p>
 
 <br>
