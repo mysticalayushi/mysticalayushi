@@ -6,10 +6,18 @@
 
 <br>
 
+<!-- Animated Typing Text -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&duration=3500&pause=1200&color=F7C948&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+My+Digital+Library;Where+Data+Becomes+Stories;Exploring+Hidden+Patterns+in+Data;Turning+Data+into+Knowledge"/>
+</p>
+
+<br>
+
 <!-- Subtitle -->
 
 <p align="center">
-<span style="font-size:28px; color:#F7C948; font-family:Cinzel,serif; letter-spacing:2px;">
+<span style="font-size:26px; color:#F7C948; font-family:Cinzel,serif; letter-spacing:2px;">
 Exploring Hidden Patterns in Data
 </span>
 </p>
