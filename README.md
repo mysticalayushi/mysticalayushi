@@ -103,9 +103,6 @@ class DataScholar:
 Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R
 </p>
 
-<p align="center">
-══════════════ ✦ 📜 ✦ ══════════════
-</p>
 
 ## 📊 Data Science Shelf
 
@@ -125,10 +122,6 @@ Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R
 Pandas &nbsp;&nbsp; NumPy &nbsp;&nbsp; Scikit-Learn &nbsp;&nbsp; Matplotlib &nbsp;&nbsp; Seaborn
 </p>
 
-<p align="center">
-══════════════ ✦ 📜 ✦ ══════════════
-</p>
-
 ## 📈 Visualization Shelf
 
 <p align="center">
@@ -141,9 +134,6 @@ Pandas &nbsp;&nbsp; NumPy &nbsp;&nbsp; Scikit-Learn &nbsp;&nbsp; Matplotlib &nbs
 Tableau &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Power BI
 </p>
 
-<p align="center">
-══════════════ ✦ 📜 ✦ ══════════════
-</p>
 
 ## ⚙️ Data Engineering Shelf
 
@@ -159,9 +149,6 @@ Tableau &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Power BI
 Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 </p>
 
-<p align="center">
-══════════════ ✦ 📜 ✦ ══════════════
-</p>
 
 # 🧰 Tools of the Trade
 
