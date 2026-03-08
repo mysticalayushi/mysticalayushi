@@ -182,8 +182,8 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 </p>
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mysticalayushi&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=C9A86A&icon_color=C9A86A"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticalayushi&layout=compact&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=C9A86A"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mysticalayushi&show_icons=true&theme=gruvbox&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mysticalayushi&layout=compact&theme=gruvbox&hide_border=true"/>
 </p>
 
 ## 🔥 Consistency of the Scholar
