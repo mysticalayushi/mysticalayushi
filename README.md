@@ -149,6 +149,10 @@ Tableau &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Power BI
 Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 </p>
 
+<p align="center">
+══════════════ ✦ 📜 ✦ ══════════════
+</p>
+
 
 # 🧰 Tools of the Trade
 
