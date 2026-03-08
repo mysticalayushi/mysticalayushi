@@ -1,18 +1,34 @@
+<!-- Banner -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8DCC4&height=220&section=header&text=Where%20Data%20Becomes%20Stories&fontSize=40&fontColor=5A3E2B&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8DCC4&height=180&section=header&text=Where%20Data%20Becomes%20Stories&fontSize=40&fontColor=5A3E2B&animation=fadeIn&fontAlignY=38"/>
 </p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=30&duration=3500&pause=1200&color=F7C948&center=true&vCenter=true&width=800&height=90&lines=Welcome+to+My+Digital+Library;Where+Data+Becomes+Stories;Exploring+Hidden+Patterns+in+Data;Turning+Data+into+Knowledge"/>
-</p>
+
+<br><br>
+
+<!-- Subtitle -->
+
+<h2 align="center" style="color:#F7C948;">
+Exploring Hidden Patterns in Data
+</h2>
+
+<br>
+
+<!-- Quote -->
 
 <p align="center">
 <em>"In a world overflowing with information, I seek the stories hidden within data."</em>
 </p>
 
+<br>
+
+<!-- Divider -->
+
 <p align="center">
-════════════ ✦ 📜 ✦ ════════════
+━━━━━━━━━━━━━━ ✦ 📜 ✦ ━━━━━━━━━━━━━━
 </p>
 
+<br>
 # 📜 The Scholar
 
 ```python
