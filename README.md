@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=3500&pause=1200&color=8B5A2B&center=true&vCenter=true&width=750&lines=Welcome+to+My+Digital+Library;Where+Data+Becomes+Stories;Exploring+Hidden+Patterns+in+Data;Turning+Data+into+Knowledge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=30&duration=3500&pause=1200&color=FFD700&center=true&vCenter=true&width=750&height=80&lines=Welcome+to+My+Digital+Library;Where+Data+Becomes+Stories;Exploring+Hidden+Patterns+in+Data;Turning+Data+into+Knowledge"/>
 </p>
-
 <p align="center">
 <em>"In a world overflowing with information, I seek the stories hidden within data."</em>
 </p>
