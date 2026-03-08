@@ -209,7 +209,7 @@ send a letter through one of the channels below.</i>
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
-# 📚 Epilogue
+# 📜  Epilogue
 
 You have reached the final page of this chapter.
 
