@@ -23,11 +23,6 @@
 
 <!-- Divider -->
 
-
-<p align="center">
-══════════════ ✦ 📜 ✦ ══════════════
-</p>
-
 <br>
 
 # 📜 The Scholar
@@ -84,10 +79,6 @@ class DataScholar:
 
 📖 I believe that behind every dataset lies a **narrative waiting to be uncovered.**  
 🪶 My goal is to transform **raw data → insight → knowledge → impact.**
-
-<p align="center">
-══════════════ ✦ 📜 ✦ ══════════════
-</p>
 
 # 📚 Library of Technical Knowledge
 ## 🧠 Languages
@@ -150,11 +141,6 @@ Tableau &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Power BI
 Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 </p>
 
-<p align="center">
-══════════════ ✦ 📜 ✦ ══════════════
-</p>
-
-
 # 🧰 Tools of the Trade
 
 <p align="center">
@@ -172,9 +158,6 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 
 # 📚 Featured Projects Shelf
 <p> <a href="https://github.com/mysticalayushi/Online-Shopping-Cart"> <img src="https://img.shields.io/badge/Project-Online%20Shopping%20Cart-blue?style=for-the-badge"> </a> <a href="https://github.com/mysticalayushi/food-bridge-analytics-dashboard"> <img src="https://img.shields.io/badge/Project-Food%20Bridge%20Analytics-green?style=for-the-badge"> </a> </p>
-<p align="center">    
-══════════════ ✦ 📜 ✦ ══════════════
-</p>
 
 # 📊 Library Analytics Dashboard
 
@@ -204,18 +187,10 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 
 ![Snake animation](https://github.com/mysticalayushi/mysticalayushi/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-══════════════ ✦ 📜 ✦ ══════════════
-</p>
-
 # 📖 Visitor Logbook
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mysticalayushi&label=Visitors%20to%20the%20Library&color=C9A86A&style=for-the-badge"/>
-</p>
-
-<p align="center">    
-══════════════ ✦ 📜 ✦ ══════════════
 </p>
 
 # 📜 Correspondence with the Author
@@ -233,10 +208,6 @@ send a letter through one of the channels below.</i>
 <a href="https://github.com/mysticalayushi">
 <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
-
-<p align="center">
-══════════════ ✦ 📜 ✦ ══════════════
 </p>
 
 <p align="center">
