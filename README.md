@@ -201,7 +201,7 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 
 ## 🐍 Knowledge Trail
 
-![Snake animation](https://github.com/mysticalayushi/mysticalayushi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/mysticalayushi/mysticalayushi/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
 ══════════════ ✦ 📜 ✦ ══════════════
