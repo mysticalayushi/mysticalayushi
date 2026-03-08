@@ -221,6 +221,6 @@ new insights will emerge,
 and the pursuit of knowledge will go on.
 
 Until the next chapter,
-thank you for visiting this library.
+thank you for visiting this library!
 
 📖
