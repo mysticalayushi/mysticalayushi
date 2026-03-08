@@ -25,7 +25,7 @@
 
 <br>
 
-# 📜 The Scholar
+# 📜 Prologue
 
 ```python
 class DataScholar:
