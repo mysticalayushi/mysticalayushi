@@ -16,12 +16,6 @@
 
 <!-- Quote -->
 
-<p align="center">
-<em>"In a world overflowing with information, I seek the stories hidden within data."</em>
-</p>
-
-<br>
-
 <!-- Divider -->
 
 <br>
