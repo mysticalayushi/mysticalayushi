@@ -1,51 +1,18 @@
-<!-- 📜 Animated Library Banner -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8DCC4&height=160&section=header&text=Where%20Data%20Becomes%20Stories&fontSize=38&fontColor=5A3E2B&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8DCC4&height=220&section=header&text=Where%20Data%20Becomes%20Stories&fontSize=40&fontColor=5A3E2B&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<br>
-
-<!-- ✨ Typing Animation -->
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3500&pause=1200&color=8B5A2B&center=true&vCenter=true&width=750&lines=Welcome+to+My+Digital+Library;Where+Data+Becomes+Stories;Exploring+Hidden+Patterns+in+Data;Turning+Data+into+Knowledge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=3500&pause=1200&color=8B5A2B&center=true&vCenter=true&width=750&lines=Welcome+to+My+Digital+Library;Where+Data+Becomes+Stories;Exploring+Hidden+Patterns+in+Data;Turning+Data+into+Knowledge"/>
 </p>
-
-<br>
-
-<!-- 📚 Subtitle -->
-
-<h3 align="center">Exploring Hidden Patterns in Data</h3>
-
-<br>
-
-<!-- 🕯️ Scholar Quote -->
 
 <p align="center">
 <em>"In a world overflowing with information, I seek the stories hidden within data."</em>
 </p>
 
-<br>
-
-<!-- 📖 Decorative Divider -->
-
 <p align="center">
-━━━━━━━━━━━━━━━━ ✦ 📜 ✦ ━━━━━━━━━━━━━━━━
+════════════ ✦ 📜 ✦ ════════════
 </p>
-
-<br>
-
-<!-- 📊 GitHub Stats (Library Records Style) -->
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mysticalayushi&show_icons=true&theme=gruvbox&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticalayushi&layout=compact&theme=gruvbox&hide_border=true"/>
-</p>
-
-<br>
-
-<!-- 📜 Section Start -->
 
 # 📜 The Scholar
 
