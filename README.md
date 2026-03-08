@@ -29,6 +29,7 @@
 </p>
 
 <br>
+
 # 📜 The Scholar
 
 ```python
