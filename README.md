@@ -14,14 +14,6 @@
 
 <br>
 
-<!-- Animated Typing Text -->
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=32&duration=3500&pause=1200&color=F7C948&repeat=true&center=true&vCenter=true&width=900&height=80&lines=Welcome+to+My+Digital+Library;Exploring+Hidden+Patterns+in+Data;Turning+Data+into+Knowledge;Stories+Hidden+Within+Data"/>
-</p>
-
-<br>
-
 <!-- Quote -->
 
 <p align="center">
