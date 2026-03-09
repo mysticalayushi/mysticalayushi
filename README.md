@@ -210,17 +210,20 @@ send a letter through one of the channels below.</i>
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 # 📜  Epilogue
+```python
+class FinalChapter:
 
-You have reached the final page of this chapter.
+    def __init__(self):
 
-But the library of data is infinite,
-and many stories remain to be discovered.
+        # Status
+        self.chapter = "End of Chapter"
 
-New projects will continue to be added,
-new insights will emerge,
-and the pursuit of knowledge will go on.
+        # Reflection
+        self.message = [
+            "The library of data is infinite.",
+            "Many stories remain undiscovered."
+        ]
 
-Until the next chapter,
-thank you for visiting this library!
-
-📖
+        # Closing
+        self.next = "See you in the next chapter 📖"
+```
