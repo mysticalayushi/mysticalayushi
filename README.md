@@ -204,6 +204,11 @@ send a letter through one of the channels below.</i>
 <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
+<p align="center">
+  <a href="https://www.kaggle.com/ayushiraiii">
+    <img src="https://img.shields.io/badge/Kaggle-Follow%20My%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
 
 # 📜 **License**
 
