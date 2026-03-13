@@ -157,11 +157,6 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mysticalayushi&repo=Customer-Churn-Prediction&theme=tokyonight">
 </a>
 
-<p align="center">
-End-to-end customer churn prediction system with Exploratory Data Analysis, Data Preprocessing, Model Training, and a Streamlit app for real-time predictions. 🚀
-</p>
-
-
 # 📊 Library Analytics Dashboard
 
 <p align="center">
