@@ -154,7 +154,8 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 # 📚 Featured Project Shelf
 
 <a href="https://github.com/mysticalayushi/Customer-Churn-Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mysticalayushi&repo=Customer-Churn-Prediction&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mysticalayushi&repo=Customer-Churn-Prediction&theme=tokyonight&v=1">
+
 </a>
 
 # 📊 Library Analytics Dashboard
