@@ -150,12 +150,28 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
 
 </p>
+# 📚 Featured Project
 
-# 📚 Featured Projects Shelf
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Customer Churn Prediction
+
+An end-to-end machine learning project that predicts whether a customer will leave a company.  
+Includes data preprocessing, feature engineering, model training, and a Streamlit web app for real-time predictions.
+
+🔹 **Tech Stack:** Python, Pandas, Scikit-learn, Streamlit  
+🔹 **Task:** Binary Classification  
 
 <a href="https://github.com/mysticalayushi/Customer-Churn-Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mysticalayushi&repo=Customer-Churn-Prediction&theme=tokyonight">
+<img src="https://img.shields.io/badge/View%20Project-Repository-purple?style=for-the-badge">
 </a>
+
+</td>
+</tr>
+</table>
+
 
 
 
