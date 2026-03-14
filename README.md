@@ -13,9 +13,13 @@
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mysticalayushi&label=Visitors%20to%20the%20Library&color=C9A86A&style=for-the-badge"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Open%20to-Internships-22C55E?style=for-the-badge"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Focus-Machine%20Learning-7B2FBE?style=for-the-badge"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Based%20in-India-FF9933?style=for-the-badge"/>
 </p>
-![Focus](https://img.shields.io/badge/Focus-Machine%20Learning-7B2FBE?style=for-the-badge)
-![Domain](https://img.shields.io/badge/Domain-Data%20Science-3776AB?style=for-the-badge)
 
 ---
 
