@@ -69,6 +69,7 @@ class DataScholar:
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) | ![ML](https://img.shields.io/badge/Accuracy-86%25-22C55E?style=flat) |
 
 </div>
+
 ---
 
 # 📊 Library Analytics Dashboard
