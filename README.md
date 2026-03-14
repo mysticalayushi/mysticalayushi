@@ -11,8 +11,9 @@
 <p align="center">
   <em>"In a world overflowing with information, I seek the stories hidden within data."</em>
 </p>
-
-<br/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mysticalayushi&label=Visitors%20to%20the%20Library&color=C9A86A&style=for-the-badge"/>
+</p>
 
 ---
 
@@ -100,14 +101,6 @@ class DataScholar:
 
 <p align="center">
 <img src="https://github.com/mysticalayushi/mysticalayushi/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 📖 Visitor Logbook
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mysticalayushi&label=Visitors%20to%20the%20Library&color=C9A86A&style=for-the-badge"/>
 </p>
 
 ---
