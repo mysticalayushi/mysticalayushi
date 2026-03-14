@@ -60,12 +60,15 @@ class DataScholar:
 
 # 🚀 Featured Project
 
+<div align="center">
+  
 | | |
 |:---|:---|
 | **🔮 Customer Churn Prediction** | [![Live App](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://customer-churn-prediction-pg2spsbjlksybbuyappw8hf.streamlit.app/) |
 | Predicts whether a bank customer will churn using Neural Networks, deployed via Streamlit | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=for-the-badge&logo=github)](https://github.com/mysticalayushi/Customer-Churn-Prediction) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) | ![ML](https://img.shields.io/badge/Accuracy-86%25-22C55E?style=flat) |
 
+</div>
 ---
 
 # 📊 Library Analytics Dashboard
