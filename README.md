@@ -41,69 +41,21 @@ class DataScholar:
   🪶 My goal is to transform <strong>raw data → insight → knowledge → impact.</strong>
 </p>
 
----
-
 # 📚 Library of Technical Knowledge
-
-<br/>
 
 <div align="center">
 
-### 🧠 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" width="45" title="Python"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" width="45" title="SQL"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=r" width="45" title="R"/>
-</p>
-<p><sub>Python &nbsp;&nbsp;&nbsp; SQL &nbsp;&nbsp;&nbsp; R</sub></p>
-
-<br/>
-
-### 📊 Data Science Shelf
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="NumPy"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-Learn"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" title="Matplotlib"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" title="Seaborn"/>
-</p>
-<p><sub>Pandas &nbsp;&nbsp; NumPy &nbsp;&nbsp; Scikit-Learn &nbsp;&nbsp; Matplotlib &nbsp;&nbsp; Seaborn</sub></p>
-
-<br/>
-
-### 📈 Visualization Shelf
-
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" title="Tableau"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="45" title="Power BI"/>
-</p>
-<p><sub>Tableau &nbsp;&nbsp;&nbsp; Power BI</sub></p>
-
-<br/>
-
-### ⚙️ Data Engineering Shelf
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" title="Apache Spark"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="45" title="Airflow"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45" title="Hadoop"/>
-</p>
-<p><sub>Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop</sub></p>
+| 📖 Category | 🛠️ Tools |
+|:---:|:---:|
+| **🧠 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) |
+| **📊 Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white) |
+| **📈 Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+| **⚙️ Data Engineering** | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) |
 
 </div>
 
 ---
+
 
 # 🧰 Tools of the Trade
 
