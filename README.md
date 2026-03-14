@@ -151,27 +151,16 @@ Apache Spark &nbsp;&nbsp;&nbsp; Airflow &nbsp;&nbsp;&nbsp; Hadoop
 
 </p>
 
-<div align="center">
+### ✨ Featured Project
 
-### 🏆 Featured Project Shelf
-
-<a href="https://github.com/mysticalayushi/Customer-Churn-Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mysticalayushi&repo=Customer-Churn-Prediction&theme=tokyonight&border_color=FF4B4B&border_radius=15&icon_color=FF4B4B&title_color=FF4B4B" />
-</a>
-
-<br/><br/>
+[![Customer Churn](https://github-readme-stats.vercel.app/api/pin/?username=mysticalayushi&repo=Customer-Churn-Prediction&theme=tokyonight&border_color=7042f8&border_radius=10)](https://github.com/mysticalayushi/Customer-Churn-Prediction)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Accuracy](https://img.shields.io/badge/Accuracy-86%25-22C55E?style=for-the-badge)
 
-<br/>
+[![Live Demo](https://img.shields.io/badge/🚀%20Try%20Live%20App-FF4B4B?style=for-the-badge)](https://customer-churn-prediction-pg2spsbjlksybbuyappw8hf.streamlit.app/)
 
-[![🚀 Live App](https://img.shields.io/badge/🚀_Live_App-Open-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://customer-churn-prediction-pg2spsbjlksybbuyappw8hf.streamlit.app/)
-[![📂 View Code](https://img.shields.io/badge/📂_View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mysticalayushi/Customer-Churn-Prediction)
-
-</div>
 # 📊 Library Analytics Dashboard
 
 <p align="center">
