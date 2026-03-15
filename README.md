@@ -63,7 +63,7 @@ class DataScholar:
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
 <div align="center">
   
