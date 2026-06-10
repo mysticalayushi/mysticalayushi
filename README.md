@@ -66,21 +66,22 @@ class DataScholar:
 # 🚀 Featured Projects
 
 <div align="center">
-  
+
 | | |
 |:---|:---|
 | **🔮 Customer Churn Prediction** | [![Live App](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://customer-churn-prediction-pg2spsbjlksybbuyappw8hf.streamlit.app/) |
 | Predicts whether a bank customer will churn using Neural Networks, deployed via Streamlit | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=for-the-badge&logo=github)](https://github.com/mysticalayushi/Customer-Churn-Prediction) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) | ![ML](https://img.shields.io/badge/Accuracy-80%25-22C55E?style=flat) |
+| &nbsp; | &nbsp; |
 
 | | |
 |:---|:---|
-| **🌱 CarbonCut** | [![Live App](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://your-live-demo-link) |
+| **🌱 CarbonCut** | [![Live App](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://carboncut.netlify.app/) |
 | Helps individuals estimate, track, and reduce their carbon footprint based on transportation habits, energy consumption, and dietary choices — making environmental awareness simple and actionable | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=for-the-badge&logo=github)](https://github.com/mysticalayushi/CarbonCut) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![ML](https://img.shields.io/badge/Domain-Sustainability-22C55E?style=flat) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Domain](https://img.shields.io/badge/Domain-Sustainability-22C55E?style=flat) |
+| &nbsp; | &nbsp; |
 
 </div>
-
 ---
 
 # 📊 Library Analytics Dashboard
