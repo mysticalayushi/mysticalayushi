@@ -75,6 +75,7 @@ class DataScholar:
 
 
 </div>
+
 ---
 
 # 📊 Library Analytics Dashboard
