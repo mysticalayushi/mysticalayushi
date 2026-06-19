@@ -73,6 +73,11 @@ class DataScholar:
 | Predicts whether a bank customer will churn using Neural Networks, deployed via Streamlit | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=for-the-badge&logo=github)](https://github.com/mysticalayushi/Customer-Churn-Prediction) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) | ![ML](https://img.shields.io/badge/Accuracy-80%25-22C55E?style=for-the-badge) |
 
+| | |
+|:---|:---|
+| **🧠 SENSE — Sentiment Extraction Natural Language Scoring Engine** | [![Live App](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://kzwbzkfnogri2rp7tomcn5.streamlit.app/) |
+| Dual-model NLP pipeline (VADER + RoBERTa) that extracts, scores, and explains sentiment in any text — with SHAP word-level explainability and batch CSV analysis, deployed via Streamlit | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=for-the-badge&logo=github)](https://github.com/mysticalayushi/SENSE) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=flat) | ![Accuracy](https://img.shields.io/badge/Accuracy-85%25-22C55E?style=for-the-badge) |
 
 </div>
 
