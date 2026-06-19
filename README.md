@@ -126,6 +126,10 @@ class DataScholar:
 <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ayushi-rai-105b88416">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
 <a href="https://www.kaggle.com/ayushiraiii">
 <img src="https://img.shields.io/badge/Kaggle-Follow%20My%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
