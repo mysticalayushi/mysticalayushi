@@ -116,12 +116,10 @@ class DataScholar:
 ---
 
 # 📜 Correspondence with the Author
-
 <p align="center">
   <i>If you wish to discuss data, ideas, or collaborations,<br/>
   send a letter through one of the channels below.</i>
 </p>
-
 <p align="center">
 <a href="mailto:ayushirai2007@gmail.com">
 <img src="https://img.shields.io/badge/Email-Send%20a%20Letter-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -134,9 +132,11 @@ class DataScholar:
 <a href="https://www.linkedin.com/in/ayushi-rai-105b88416">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://www.kaggle.com/ayushiraiii">
+&nbsp;&nbsp;<a href="https://www.kaggle.com/ayushiraiii">
 <img src="https://img.shields.io/badge/Kaggle-Follow%20My%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+&nbsp;&nbsp;<a href="https://medium.com/@ayushiraiii">
+<img src="https://img.shields.io/badge/Medium-Read%20My%20Stories-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 </p>
 
