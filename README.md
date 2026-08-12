@@ -81,9 +81,9 @@ class DataScholar:
 
 | | |
 |:---|:---|
-| **🕳️ PlotHole** | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=for-the-badge&logo=github)](https://github.com/mysticalayushi/PlotHole) |
-| Flags where a Jupyter notebook's analytical story breaks down — dead-end variables, orphaned exploration, and conclusions that outrun their evidence. Built for BRAINWAVE 2026 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AST](https://img.shields.io/badge/Python%20AST-3776AB?style=flat) ![LLM](https://img.shields.io/badge/LLM%20Analysis-7B2FBE?style=flat) |
-| ![Status](https://img.shields.io/badge/Status-In%20Progress-F7C948?style=for-the-badge) | |
+| **🕳️ PlotHole** | [![Live App](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://plothole-gugzldxaqyagagapphyumvf.streamlit.app/) |
+| Flags where a Jupyter notebook's analytical story breaks down — dead-end variables, orphaned exploration, and conclusions that outrun their evidence. Built for BRAINWAVE 2026 | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=for-the-badge&logo=github)](https://github.com/mysticalayushi/PlotHole) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AST](https://img.shields.io/badge/Python%20AST-3776AB?style=flat) ![LLM](https://img.shields.io/badge/LLM%20Analysis-7B2FBE?style=flat) | [![YouTube](https://img.shields.io/badge/Watch-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=8iAbv_e-Dr4) [![Drive](https://img.shields.io/badge/Demo-Video-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Nd648LLlvn1BsK_U7DJzMWIjOFyE89Rv/view) |
 
 </div>
 
