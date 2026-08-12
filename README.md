@@ -79,6 +79,12 @@ class DataScholar:
 | Dual-model NLP pipeline (VADER + RoBERTa) that extracts, scores, and explains sentiment in any text — with SHAP word-level explainability and batch CSV analysis, deployed via Streamlit | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=for-the-badge&logo=github)](https://github.com/mysticalayushi/SENSE) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=flat) | ![Accuracy](https://img.shields.io/badge/Accuracy-85%25-22C55E?style=for-the-badge) |
 
+| | |
+|:---|:---|
+| **🕳️ PlotHole** | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=for-the-badge&logo=github)](https://github.com/mysticalayushi/PlotHole) |
+| Flags where a Jupyter notebook's analytical story breaks down — dead-end variables, orphaned exploration, and conclusions that outrun their evidence. Built for BRAINWAVE 2026 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AST](https://img.shields.io/badge/Python%20AST-3776AB?style=flat) ![LLM](https://img.shields.io/badge/LLM%20Analysis-7B2FBE?style=flat) |
+| ![Status](https://img.shields.io/badge/Status-In%20Progress-F7C948?style=for-the-badge) | |
+
 </div>
 
 ---
