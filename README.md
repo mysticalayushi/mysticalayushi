@@ -1,44 +1,46 @@
-<sub><b>AYUSHI RAI / DATA SCIENCE STUDENT</b></sub>
+<code>AYUSHI RAI / DATA SCIENCE STUDENT</code>
 
 # *data is a manuscript waiting to be read.*
 
-turning raw numbers into stories, models, and tools worth trusting.
+<p>turning raw numbers into stories, models, and tools worth trusting.</p>
 
 ---
 
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-<sub><b>EMAIL</b></sub><br/>
-<a href="mailto:ayushirai2007@gmail.com"><b>ayushirai2007@gmail.com</b></a>
+<table width="100%" style="border: 1px solid #30363d; border-collapse: collapse;">
+<tr style="border: 1px solid #30363d;">
+<td width="25%" align="center" style="border: 1px solid #30363d; padding: 20px;">
+<b>EMAIL</b><br/><br/>
+<a href="mailto:ayushirai2007@gmail.com">ayushirai2007@gmail.com</a>
 </td>
-<td align="center" width="25%">
-<sub><b>LINKEDIN</b></sub><br/>
-<a href="https://www.linkedin.com/in/ayushi-rai-105b88416"><b>Ayushi Rai</b></a>
+<td width="25%" align="center" style="border: 1px solid #30363d; padding: 20px;">
+<b>LINKEDIN</b><br/><br/>
+<a href="https://www.linkedin.com/in/ayushi-rai-105b88416">Ayushi Rai</a>
 </td>
-<td align="center" width="25%">
-<sub><b>KAGGLE</b></sub><br/>
-<a href="https://www.kaggle.com/ayushiraiii"><b>ayushiraiii</b></a>
+<td width="25%" align="center" style="border: 1px solid #30363d; padding: 20px;">
+<b>KAGGLE</b><br/><br/>
+<a href="https://www.kaggle.com/ayushiraiii">ayushiraiii</a>
 </td>
-<td align="center" width="25%">
-<sub><b>MEDIUM</b></sub><br/>
-<a href="https://medium.com/@ayushiraiii"><b>@ayushiraiii</b></a>
+<td width="25%" align="center" style="border: 1px solid #30363d; padding: 20px;">
+<b>MEDIUM</b><br/><br/>
+<a href="https://medium.com/@ayushiraiii">@ayushiraiii</a>
 </td>
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td width="33%">
-<sub><b>FOCUSED ON</b></sub><br/>
+---
+
+<table width="100%" style="border: 1px solid #30363d; border-collapse: collapse;">
+<tr style="border: 1px solid #30363d;">
+<td width="33%" align="left" style="border: 1px solid #30363d; padding: 20px;">
+<b>FOCUSED ON</b><br/>
 Machine Learning
 </td>
-<td width="33%">
-<sub><b>BUILDING</b></sub><br/>
+<td width="33%" align="left" style="border: 1px solid #30363d; padding: 20px;">
+<b>BUILDING</b><br/>
 Data Pipelines & Tools
 </td>
-<td width="33%">
-<sub><b>EXPLORING</b></sub><br/>
+<td width="33%" align="left" style="border: 1px solid #30363d; padding: 20px;">
+<b>EXPLORING</b><br/>
 NLP & Explainability
 </td>
 </tr>
@@ -46,22 +48,22 @@ NLP & Explainability
 
 ---
 
-<p align="center"><sub>working set</sub></p>
+<p align="center"><code>working set</code></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-_-05122A?style=for-the-badge&logo=python&logoColor=3776AB" height="45"/>&nbsp;
-<img src="https://img.shields.io/badge/-_-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1" height="45"/>&nbsp;
-<img src="https://img.shields.io/badge/-_-05122A?style=for-the-badge&logo=r&logoColor=276DC3" height="45"/>&nbsp;
-<img src="https://img.shields.io/badge/-_-05122A?style=for-the-badge&logo=tableau&logoColor=E97627" height="45"/>&nbsp;
-<img src="https://img.shields.io/badge/-_-05122A?style=for-the-badge&logo=powerbi&logoColor=F2C811" height="45"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50"/>&nbsp;
+<img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x500.png" height="50" style="filter: brightness(0.9);"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" height="50"/>
 </p>
 
 ---
 
 <p align="center">
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mysticalayushi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mysticalayushi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"/>
 &nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mysticalayushi&layout=compact&theme=dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mysticalayushi&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 <p align="center">
